@@ -1,7 +1,5 @@
 # Hotel Management
 
-![image](https://user-images.githubusercontent.com/62541542/195177609-1f5d6e02-5872-4332-90c2-f9cbacf1bd89.png)
-
 ![image](https://user-images.githubusercontent.com/62541542/195178047-caf10ff3-5798-4954-b4c4-fcac7c604236.png)
 
 
